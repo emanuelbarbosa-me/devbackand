@@ -1,1 +1,1 @@
-Print('print')
+print('print')
